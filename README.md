@@ -1,10 +1,10 @@
 # Copy Material Icon
 
-A chrome extension to copy icons on material icons website as SVG.
+A chrome extension to copy icons as SVG on the material icons website.
 
 ## Video of extension being created
 
-<https://youtu.be/qMLBVSxe58U>
+<https://www.youtube.com/watch?v=Fq0oNUWPfNI>
 
 
 ## References
