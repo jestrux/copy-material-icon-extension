@@ -7,8 +7,5 @@
       "matches": ["https://fonts.google.com/icons?*"],
       "js": ["content.js"]
     }
-  ],
-  "permissions": [
-    "clipboardWrite"
   ]
 }
