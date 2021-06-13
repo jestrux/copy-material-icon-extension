@@ -5,6 +5,7 @@
   "content_scripts": [
     {
       "matches": ["https://fonts.google.com/icons?*"],
+      "css": ["content.css"],
       "js": ["content.js"]
     }
   ]
