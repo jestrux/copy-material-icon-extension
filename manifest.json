@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "content_scripts": [
     {
-      "matches": ["https://fonts.google.com/icons?*"],
+      "matches": ["https://fonts.google.com/icons*"],
       "css": ["content.css"],
       "js": ["content.js"]
     }
