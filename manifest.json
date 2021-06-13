@@ -1,0 +1,14 @@
+{
+  "name": "copy_material_icon",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://fonts.google.com/icons?*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": [
+    "clipboardWrite"
+  ]
+}
